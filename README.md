@@ -5,7 +5,7 @@ Dataset: https://www.researchgate.net/publication/321475443_Fruit_recognition_fr
 Context/Scenario:You are a Data Scientist in a very young AgriTech start-up, called "Fruits!", which seeks to propose innovative solutions for fruit harvesting. The company's aim is to preserve the biodiversity of fruit by allowing specific treatments for each fruit species by developing intelligent picking robots.
 Your start-up wants to make itself known by making available to the general public a mobile application that would allow users to take a photo of a fruit and obtain information about it.
 
-Problem: Deploy a large dataset on AWS to make classification with pySpark
+Problem: Deploy a large dataset on AWS to make Fruits! classification with pySpark
 
 Methods:
 1. Create EC2, S3, IAM role with AWS management console
